@@ -1,0 +1,21 @@
+{
+  "short_name": "MBZ",
+  "name": "Méthode MBZ",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#08070d",
+  "theme_color": "#634BB3",
+  "display": "standalone",
+  "orientation": "portrait"
+}
